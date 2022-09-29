@@ -10,4 +10,5 @@ signed main(){
     }
     for(int i = 2 ; i < n ; i++) swap(a[i], a[i/2]);
     for(int i : a) cout << i << " ";
+    //1
 }
